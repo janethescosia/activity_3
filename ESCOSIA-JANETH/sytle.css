@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Arimo&display=swap');
+
+*{
+
+	font-family: "indie flower";
+
+
+}
+body{
+
+	background:#E5A4CB;
+}
+.classimage{
+     width: 300px;
+     height: 300px;
+     border-radius: 50px;      
+
+}
+
+h1{
+
+	color: #7F055F;
+	font-size: 50px;
+
+}
+ nav p a{
+
+	
+}
+nav p a: hover{
+
+	border:#6A66A3
+
+
+ 
+}
+section div{
+	font-size: 20px;
+	display: flex;
+	justify-content: space-around;
+}
+
